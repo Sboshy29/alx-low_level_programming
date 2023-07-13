@@ -1,10 +1,11 @@
-#Include <stdio.h>
+#include <stdio.h>
 /**
  * main - A program that prints a lime with puts function
- * Return: 0(Success)
- * */
+ *
+ * Return: always (0)
+ */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"programming is likr building a muiltilingual puzzle");
+	return (0);
 }
